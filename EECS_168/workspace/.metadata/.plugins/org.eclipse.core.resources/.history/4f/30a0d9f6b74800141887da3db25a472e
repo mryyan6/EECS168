@@ -1,0 +1,32 @@
+/*MethodPractice.java
+ * Zack Mryyan
+ * EECS-169 Lab 5
+ * This program will find the palindrome of an integer.
+ * 9/29/14
+ */
+import java.util.Scanner;
+
+public class Palindrome {
+	public static void main(System[] args)
+	{
+		Scanner input= new Scanner(System.in);
+		System.out.println("Please enter a No:");
+		int number= input.nextInt();
+		System.out.println("The Length of the Number is:" );
+	}
+
+	public static int isPalindrome(int x)
+	{
+		
+	}
+	
+	public static int reverse(int x)
+	{
+		
+	}
+	
+	public static int lengthOfNumber(int x)
+	{
+
+	}
+}
